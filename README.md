@@ -14,3 +14,10 @@ Introdução ao .NET Core, VsCode, Command Line do .NetCore, NuGet, Entity Frame
 
 - o que será feito?
 --- API com ASP.NET Core 3.1, utilizando C#, ORM para conexão com banco de dados e Swagger para documentação da API.
+
+
+Extensões no VSCode:
+
+- C#
+- C# Entensions
+- C# XML Documentation Comments
