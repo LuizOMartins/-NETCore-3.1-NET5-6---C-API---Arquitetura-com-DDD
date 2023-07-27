@@ -1,0 +1,15 @@
+C:\GIT\net-CORE\helloword\bin\Debug\net6.0\HellloWord.exe
+C:\GIT\net-CORE\helloword\bin\Debug\net6.0\HellloWord.deps.json
+C:\GIT\net-CORE\helloword\bin\Debug\net6.0\HellloWord.runtimeconfig.json
+C:\GIT\net-CORE\helloword\bin\Debug\net6.0\HellloWord.dll
+C:\GIT\net-CORE\helloword\bin\Debug\net6.0\HellloWord.pdb
+C:\GIT\net-CORE\helloword\obj\Debug\net6.0\HellloWord.csproj.AssemblyReference.cache
+C:\GIT\net-CORE\helloword\obj\Debug\net6.0\HellloWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\net-CORE\helloword\obj\Debug\net6.0\HellloWord.AssemblyInfoInputs.cache
+C:\GIT\net-CORE\helloword\obj\Debug\net6.0\HellloWord.AssemblyInfo.cs
+C:\GIT\net-CORE\helloword\obj\Debug\net6.0\HellloWord.csproj.CoreCompileInputs.cache
+C:\GIT\net-CORE\helloword\obj\Debug\net6.0\HellloWord.dll
+C:\GIT\net-CORE\helloword\obj\Debug\net6.0\refint\HellloWord.dll
+C:\GIT\net-CORE\helloword\obj\Debug\net6.0\HellloWord.pdb
+C:\GIT\net-CORE\helloword\obj\Debug\net6.0\HellloWord.genruntimeconfig.cache
+C:\GIT\net-CORE\helloword\obj\Debug\net6.0\ref\HellloWord.dll
