@@ -35,3 +35,46 @@ No ecossistema .NET existe a solução e dentro da solução os projetos.
 Declarações de variaveis:
 - var: é uma palavra-chave que indica que o tipo da variável será inferido pelo compilador.
 
+________________________________________________
+
+Core Commmand line interface: (CLI): 
+Exemplo: dotnet --info
+dotnet clean
+dotnet restore: restaura os pacotes NuGet
+dotnet build
+________________________________________________
+
+Instalção de pacores NuGet: gerenciador de pacotes do .NET.
+
+MVC: model, view, controller.
+- back e front no projeto.
+
+
+DDD - Domain Driven Design: projeto orientado a dominio.
+- alinhar o código com o negocio
+- minimo acoplamento
+- independencia de tecnologia
+
+
+link repositório: https://github.com/mfrinfo/curso_aspnetcore_api
+
+________________________________________________
+
+
+- Como alterar a versão do AspNetCore em um novo projeto:
+
+global.json:
+- informações do SDK.
+dotnet --list-sdks: lista os SDKs instalados na maquina.
+Exemplo:
+{
+    "sdk": {
+        "version": "3.1.101",
+        "rollForward": "latestFeature"
+    }
+}
+obs: colocar a versão do SDK que deseja utilizar.
+
+________________________________________________
+
+
