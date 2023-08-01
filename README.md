@@ -78,3 +78,6 @@ obs: colocar a versão do SDK que deseja utilizar.
 ________________________________________________
 
 
+Solução Asp .NET Core:
+.SLN: é um container com um ou mais projetos relacionados;
+
