@@ -81,4 +81,9 @@ ________________________________________________
 Solução Asp .NET Core:
 .SLN: é um container com um ou mais projetos relacionados;
 
--
+- Projetos:
+
+
+Api.Aplication:  é a API (projeto: web API)
+Api.Domain: é o dominio da aplicação : (class Library)
+
