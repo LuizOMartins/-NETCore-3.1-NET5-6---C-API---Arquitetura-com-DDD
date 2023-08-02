@@ -1,0 +1,9 @@
+C:\GIT\net-CORE\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\GIT\net-CORE\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\GIT\net-CORE\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\GIT\net-CORE\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\GIT\net-CORE\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\GIT\net-CORE\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\GIT\net-CORE\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\GIT\net-CORE\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\GIT\net-CORE\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb

@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "application", "Api.Aplicati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Api.Domain\Domain.csproj", "{003DB9B2-E6CC-4E91-AF82-D8917DAD7EAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossCutting", "Api.CrossCutting\CrossCutting.csproj", "{523BFCEF-E52C-48F5-98E6-BCE859423918}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Api.Data\Data.csproj", "{C001513D-7174-4D8C-9999-1602AF8AAD04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{003DB9B2-E6CC-4E91-AF82-D8917DAD7EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{003DB9B2-E6CC-4E91-AF82-D8917DAD7EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{003DB9B2-E6CC-4E91-AF82-D8917DAD7EAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{523BFCEF-E52C-48F5-98E6-BCE859423918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{523BFCEF-E52C-48F5-98E6-BCE859423918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{523BFCEF-E52C-48F5-98E6-BCE859423918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{523BFCEF-E52C-48F5-98E6-BCE859423918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C001513D-7174-4D8C-9999-1602AF8AAD04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C001513D-7174-4D8C-9999-1602AF8AAD04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C001513D-7174-4D8C-9999-1602AF8AAD04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C001513D-7174-4D8C-9999-1602AF8AAD04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
