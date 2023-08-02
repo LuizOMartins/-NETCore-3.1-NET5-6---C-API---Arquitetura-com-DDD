@@ -84,6 +84,6 @@ Solução Asp .NET Core:
 - Projetos:
 
 
-Api.Aplication:  é a API (projeto: web API)
+Api.Aplication:  é a API (projeto: web API) (startap)
 Api.Domain: é o dominio da aplicação : (class Library)
 
