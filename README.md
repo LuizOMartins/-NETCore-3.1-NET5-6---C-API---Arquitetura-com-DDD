@@ -87,3 +87,5 @@ Solução Asp .NET Core:
 Api.Aplication:  é a API (projeto: web API) (startap)
 Api.Domain: é o dominio da aplicação : (class Library)
 
+// TASK: é uma Trhead que executa uma tarefa assincrona.
+// TASK<T>: é uma Trhead que executa uma tarefa assincrona e retorna um valor do tipo T.
