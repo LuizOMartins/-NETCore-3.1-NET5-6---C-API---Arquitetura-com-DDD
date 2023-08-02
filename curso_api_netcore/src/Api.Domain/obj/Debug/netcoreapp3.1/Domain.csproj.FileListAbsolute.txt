@@ -1,9 +1,0 @@
-C:\GIT\net-CORE\curso_api_netcore\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
-C:\GIT\net-CORE\curso_api_netcore\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.dll
-C:\GIT\net-CORE\curso_api_netcore\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.pdb
-C:\GIT\net-CORE\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
-C:\GIT\net-CORE\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
-C:\GIT\net-CORE\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
-C:\GIT\net-CORE\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
-C:\GIT\net-CORE\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.dll
-C:\GIT\net-CORE\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.pdb
