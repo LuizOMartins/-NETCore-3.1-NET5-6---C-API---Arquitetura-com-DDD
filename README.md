@@ -81,3 +81,4 @@ ________________________________________________
 Solução Asp .NET Core:
 .SLN: é um container com um ou mais projetos relacionados;
 
+-
