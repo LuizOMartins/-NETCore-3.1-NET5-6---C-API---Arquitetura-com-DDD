@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GIT\\net-CORE\\curso_api_netcore\\Api.Aplication\\application.csproj": {}
+    "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Aplication\\application.csproj": {}
   },
   "projects": {
-    "C:\\GIT\\net-CORE\\curso_api_netcore\\Api.Aplication\\application.csproj": {
+    "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Aplication\\application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\net-CORE\\curso_api_netcore\\Api.Aplication\\application.csproj",
+        "projectUniqueName": "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Aplication\\application.csproj",
         "projectName": "application",
-        "projectPath": "C:\\GIT\\net-CORE\\curso_api_netcore\\Api.Aplication\\application.csproj",
+        "projectPath": "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Aplication\\application.csproj",
         "packagesPath": "C:\\Users\\luyz_\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\net-CORE\\curso_api_netcore\\Api.Aplication\\obj\\",
+        "outputPath": "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Aplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
