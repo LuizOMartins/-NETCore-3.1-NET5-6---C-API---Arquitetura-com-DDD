@@ -53,3 +53,6 @@ Thumbs.db
 curso_api_netcore/src/Api.Aplication/obj/Debug/*
 curso_api_netcore/src/Api.Aplication/obj/Debug/netcoreapp3.1/*
 curso_api_netcore/src/Api.Aplication/obj/Debug/netcoreapp3.1/application.AssemblyInfoInputs.cache
+curso_api_netcore/src/Api.Aplication/bin/Debug/netcoreapp3.1/*
+curso_api_netcore/src/Api.Service/obj/Debug/netcoreapp3.1/*
+curso_api_netcore/src/Api.Service/obj/Debug/netcoreapp3.1/*
