@@ -62,3 +62,7 @@ curso_api_netcore/src/Api.Domain/bin/Debug/netcoreapp3.1/*
 curso_api_netcore/src/Api.Data/obj/Debug/netcoreapp3.1/*
 curso_api_netcore/src/Api.Domain/obj/Debug/netcoreapp3.1/*
 curso_api_netcore/src/Api.Data/obj/project.nuget.cache
+curso_api_netcore/src/Api.Service/obj/project.nuget.cache
+curso_api_netcore/src/Api.Domain/obj/project.nuget.cache
+curso_api_netcore/src/Api.Aplication/obj/project.nuget.cache
+curso_api_netcore/src/Api.CrossCutting/obj/project.nuget.cache
