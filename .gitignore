@@ -67,3 +67,7 @@ curso_api_netcore/src/Api.Domain/obj/project.nuget.cache
 curso_api_netcore/src/Api.Aplication/obj/project.nuget.cache
 curso_api_netcore/src/Api.CrossCutting/obj/project.nuget.cache
 curso_api_netcore/src/Api.Service/bin/Debug/netcoreapp3.1/*
+curso_api_netcore/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/*
+curso_api_netcore/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/*
+curso_api_netcore/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/CrossCutting.dll
+curso_api_netcore/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/CrossCutting.pdb
