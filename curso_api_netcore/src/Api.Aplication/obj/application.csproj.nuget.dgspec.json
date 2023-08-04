@@ -35,8 +35,8 @@
               "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj": {
                 "projectPath": "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj"
               },
-              "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Data\\Data.csproj": {
-                "projectPath": "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Data\\Data.csproj"
+              "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
               },
               "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Service\\Service.csproj": {
                 "projectPath": "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Service\\Service.csproj"
@@ -122,6 +122,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
