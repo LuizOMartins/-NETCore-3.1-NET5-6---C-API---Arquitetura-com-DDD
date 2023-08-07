@@ -1,14 +1,14 @@
+using System.Net.Mime;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
+using Api.Data.Context;
+using Api.CrossCutting.DependencyInjection;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 
 namespace application
 {
@@ -21,13 +21,20 @@ namespace application
 
         public IConfiguration Configuration { get; }
 
-        // This method gets called by the runtime. Use this method to add services to the container.
-        public void ConfigureServices(IServiceCollection services)
-        {
-            services.AddControllers();
+        // Este método é chamado pelo tempo de execução. Use este método para adicionar serviços ao contêiner.
+        public void ConfigureServices(IServiceCollection services){
+
+            // Adicionar serviços de controladores
+            services.AddControllers();  // Adicione esta linha para configurar os controladores
+
+            // Adicionar serviços de autorização
+            services.AddAuthorization();
+
+            ConfigureService.ConfigureDependenciesService(services);
+            ConfigureRepository.ConfigureDependenciesRepository(services);
         }
 
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+        // Este método é chamado pelo tempo de execução. Use este método para configurar o pipeline de solicitação HTTP.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())
@@ -37,7 +44,7 @@ namespace application
 
             app.UseRouting();
 
-            app.UseAuthorization();
+            app.UseAuthorization();  // Use o middleware de autorização antes dos endpoints
 
             app.UseEndpoints(endpoints =>
             {
