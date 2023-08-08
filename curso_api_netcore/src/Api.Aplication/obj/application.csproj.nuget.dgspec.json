@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Aplication\\application.csproj": {}
+    "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Aplication\\application.csproj": {}
   },
   "projects": {
-    "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Aplication\\application.csproj": {
+    "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Aplication\\application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Aplication\\application.csproj",
+        "projectUniqueName": "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Aplication\\application.csproj",
         "projectName": "application",
-        "projectPath": "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Aplication\\application.csproj",
+        "projectPath": "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Aplication\\application.csproj",
         "packagesPath": "C:\\Users\\luyz_\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Aplication\\obj\\",
+        "outputPath": "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Aplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -31,16 +31,15 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj": {
-                "projectPath": "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj"
+              "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+                "projectPath": "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj"
               },
-              "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
+              "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
               },
-              "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Service\\Service.csproj": {
-                "projectPath": "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Service\\Service.csproj"
+              "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Service\\Service.csproj": {
+                "projectPath": "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Service\\Service.csproj"
               }
             }
           }
@@ -53,7 +52,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -82,14 +80,14 @@
         }
       }
     },
-    "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+    "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "projectUniqueName": "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj",
         "projectName": "CrossCutting",
-        "projectPath": "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "projectPath": "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj",
         "packagesPath": "C:\\Users\\luyz_\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.CrossCutting\\obj\\",
+        "outputPath": "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -109,16 +107,15 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Data\\Data.csproj": {
-                "projectPath": "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Data\\Data.csproj"
+              "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Data\\Data.csproj": {
+                "projectPath": "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Data\\Data.csproj"
               },
-              "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
+              "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
               },
-              "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Service\\Service.csproj": {
-                "projectPath": "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Service\\Service.csproj"
+              "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Service\\Service.csproj": {
+                "projectPath": "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Service\\Service.csproj"
               }
             }
           }
@@ -131,7 +128,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
@@ -157,14 +153,14 @@
         }
       }
     },
-    "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Data\\Data.csproj": {
+    "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Data\\Data.csproj",
+        "projectUniqueName": "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Data\\Data.csproj",
+        "projectPath": "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Data\\Data.csproj",
         "packagesPath": "C:\\Users\\luyz_\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Data\\obj\\",
+        "outputPath": "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -184,10 +180,9 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
+              "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
               }
             }
           }
@@ -200,7 +195,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers",
@@ -242,14 +236,14 @@
         }
       }
     },
-    "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
+    "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj",
+        "projectUniqueName": "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj",
+        "projectPath": "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\luyz_\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\obj\\",
+        "outputPath": "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -269,7 +263,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -281,7 +274,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -301,14 +293,14 @@
         }
       }
     },
-    "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Service\\Service.csproj": {
+    "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Service\\Service.csproj",
+        "projectUniqueName": "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Service\\Service.csproj",
+        "projectPath": "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Service\\Service.csproj",
         "packagesPath": "C:\\Users\\luyz_\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Service\\obj\\",
+        "outputPath": "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -328,13 +320,12 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Data\\Data.csproj": {
-                "projectPath": "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Data\\Data.csproj"
+              "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Data\\Data.csproj": {
+                "projectPath": "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Data\\Data.csproj"
               },
-              "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
+              "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
               }
             }
           }
@@ -347,7 +338,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
