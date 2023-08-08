@@ -1,8 +1,6 @@
 using System.Net.Mime;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using Api.Data.Context;
+using Microsoft.OpenApi.Models;
 using Api.CrossCutting.DependencyInjection;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -32,6 +30,27 @@ namespace application
 
             ConfigureService.ConfigureDependenciesService(services);
             ConfigureRepository.ConfigureDependenciesRepository(services);
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new OpenApiInfo
+                {
+                    Version = "v1",
+                    Title = "Curso de API com AspNetCore 3.1 - Na Prática",
+                    Description = "Arquitetura DDD",
+                    TermsOfService = new Uri("http://www.mfrinfo.com.br"),
+                    Contact = new OpenApiContact
+                    {
+                        Name = "Marcos Fabricio Rosa",
+                        Email = "mfr@mail.com",
+                        Url = new Uri("http://www.mfrinfo.com.br")
+                    },
+                    License = new OpenApiLicense
+                    {
+                        Name = "Termo de Licença de Uso",
+                        Url = new Uri("http://www.mfrinfo.com.br")
+                    }
+                });
+            });
         }
 
         // Este método é chamado pelo tempo de execução. Use este método para configurar o pipeline de solicitação HTTP.
@@ -41,6 +60,13 @@ namespace application
             {
                 app.UseDeveloperExceptionPage();
             }
+
+            app.UseSwagger();
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("swagger/v1/swagger.json", "Curso de API com AspNetCore 3.1");
+                c.RoutePrefix = String.Empty;
+            });
 
             app.UseRouting();
 

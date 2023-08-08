@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {}
+    "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {}
   },
   "projects": {
-    "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
+    "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj",
+        "projectPath": "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\luyz_\\.nuget\\packages\\",
-        "outputPath": "c:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\obj\\",
+        "outputPath": "C:\\GIT\\net-CORE\\curso_api_netcore\\src\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -31,6 +31,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -42,6 +43,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
